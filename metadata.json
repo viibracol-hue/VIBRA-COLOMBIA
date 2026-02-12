@@ -1,0 +1,8 @@
+{
+  "name": "VIBRA Colombia",
+  "description": "VIBRA Colombia: La verdad también se hace viral. Noticias, música y cultura pop con transparencia y energía.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
